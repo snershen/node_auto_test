@@ -1,1 +1,1 @@
-export const allImg = [{imgUrl: "assets/img/01.jpg"},{imgUrl: "assets/img/02.jpg"},{imgUrl: "assets/img/04.jpg"},{imgUrl: "assets/img/05.jpg"},{imgUrl: "assets/img/jason-leung-kFJ5sxVxSEg-unsplash.jpg"},{imgUrl: "assets/img/nasa--hI5dX2ObAs-unsplash.jpg"},]
+export const allImg = [{imgUrl: "assets/img/01.jpg"},{imgUrl: "assets/img/02.jpg"},{imgUrl: "assets/img/jason-leung-kFJ5sxVxSEg-unsplash.jpg"},{imgUrl: "assets/img/nasa--hI5dX2ObAs-unsplash.jpg"},]
